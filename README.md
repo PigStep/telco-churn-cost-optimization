@@ -1,4 +1,4 @@
-# Customer Churn Prediction — Telco
+# Telco churn cost optimization
 
 Predicting customer churn for a telecom company using machine learning, with cost-sensitive analysis to optimize retention strategy.
 
